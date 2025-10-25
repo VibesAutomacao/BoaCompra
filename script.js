@@ -1,7 +1,7 @@
 // Lista de produtos (12 slots)
 const produtos = [
   {
-    nome: "Relógio Digital Esportivo",
+    nome: "Relógio Digital Esportivo (ESGOTADO)",
     descricao: "À prova d'água com cronômetro e LED.",
     preco: "89,90",
     foto: "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
@@ -69,6 +69,13 @@ const produtos = [
     preco: "19.90",
     foto: "https://cdn-checkout.cakto.com.br/products/01-LOGOp24.png",
     link: "https://cakto.app/9zYZSBK/?affiliate=Nv4uwvyf"
+  },
+   {
+    nome: "Netflix 4K (Sua Região) ",
+    descricao: "Obtenha a Tele neflix 4k na sua regiao sem restriçao e curta a programaçao",
+    preco: "27.90",
+    foto: "https://www.google.com/imgres?q=imagem%20tela%20netflix&imgurl=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2015%2F07%2Fnetflix-logo.png&imgrefurl=https%3A%2F%2Ftecnoblog.net%2Fnoticias%2Fnetflix-teste-plano-ultra-brasil%2F&docid=Zs6dY1XhzwRgSM&tbnid=YLCNvnAQ1-hL9M&vet=12ahUKEwj3xs7H6L-QAxXOpZUCHfceHFUQM3oECBUQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwj3xs7H6L-QAxXOpZUCHfceHFUQM3oECBUQAA",
+    link: "https://mpago.la/2xY3X72",
   },
  
 ];
